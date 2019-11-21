@@ -22,11 +22,10 @@ header {
 
 h1 {
   color: #fff;
+  text-align: center;
   font-family: Bevan, cursive;
   margin-top: .3em;
   margin-bottom: 0;
-  display: inline-block;
-  text-align: center;
 }
 
 nav ul {
