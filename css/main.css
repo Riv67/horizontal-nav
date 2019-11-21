@@ -11,7 +11,6 @@ html {
 body {
   margin: 0;
   background-color: #dbd6cf;
-  display: inline-block;
 }
 
 header {
@@ -24,7 +23,7 @@ header {
 h1 {
   color: #fff;
   text-align: center;
-  font-family: Bevan, "sans serif";
+  font-family: "Bevan", "sans serif";
   margin-top: .3em;
   margin-bottom: 0;
 }
