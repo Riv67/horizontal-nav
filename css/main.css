@@ -30,11 +30,15 @@ h1 {
 
 nav ul {
   list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  text-align: center;
   padding: 0;
   margin-top: 0;
+}
+
+nav li {
+  margin: .3em;
+  padding-top: .6em;
+  display: inline-block;
 }
 
 a:link,
@@ -48,9 +52,4 @@ a:visited {
 
 nav a:hover {
   background-color: #f33;
-}
-
-nav li {
-  margin: .3em;
-  padding-top: .6em;
 }
